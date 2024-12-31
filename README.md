@@ -2,7 +2,8 @@
 
 ##This is the prototype code for the following paper implementation.
 
-Paper: A practical verifiable delay function and delay encryption scheme[J/OL]. IACR Cryptology ePrint Archive, 2021: 2021/1293. https://eprint.iacr.org/archive/2021/1293/1632747823.pdf
+Paper1: A practical verifiable delay function and delay encryption scheme[J/OL]. IACR Cryptology ePrint Archive, 2021: 2021/1293. https://eprint.iacr.org/archive/2021/1293/1632747823.pdf
+Paper2: A Survey on Verifiable Delay Functions and Delay Encryptions[J]. Journal of Cryptologic Research. 2024, 11(2): 282-307 https://doi.org/10.13868/j.cnki.jcr.000680
 
 ##Dependencies
 
